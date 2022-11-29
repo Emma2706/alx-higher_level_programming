@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#Authur - Emma Chisenwa
+# Author - Emma
 
 def remove_char_at(str, n):
     if n < 0:
